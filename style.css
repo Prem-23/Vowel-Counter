@@ -1,0 +1,12 @@
+.button{
+    border: 1px solid whitesmoke;
+    background-color: yellowgreen;
+    border-radius: 18px;
+    color: white;
+}
+.button1{
+    border: 1px solid whitesmoke;
+    background-color: red;
+    border-radius: 18px;
+    color: white;
+}
